@@ -49,3 +49,4 @@ class doSql(object):
 #f = a.execqry("select insupattendance('1321', 'CENG1-LEC', getcurrsem(), now()::timestamp without time zone, true)")[0][0] 
 #print f
 #del a
+#blah2x
